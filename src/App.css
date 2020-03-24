@@ -7,7 +7,7 @@
 .table-item {
   display: grid;
   grid-template-rows: 1fr;
-  grid-template-columns: 2.5fr 4fr 1fr 0.5fr;
+  grid-template-columns: 2.5fr 4fr 1fr 0.6fr;
   padding: 6px 24px;
   border: 1px solid black;
   margin-bottom: 10px;
